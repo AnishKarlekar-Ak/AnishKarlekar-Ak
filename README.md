@@ -1,7 +1,7 @@
 # Hi, I’m a Full-Stack Engineer building scalable web systems with an AI-first mindset.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=/AnishKarlekar-Ak&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=/AnishKarlekar-Ak&theme=tokyonight&hide_border=true" />
 </p>
 
 I design and ship structured, production-ready applications across the MERN/MEAN stack. My focus isn’t just making things work — it’s building systems that scale, remain maintainable, and evolve cleanly over time.
